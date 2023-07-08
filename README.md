@@ -1,1 +1,4 @@
 # windmill-onprem
+
+-- Helm
+--Docker
